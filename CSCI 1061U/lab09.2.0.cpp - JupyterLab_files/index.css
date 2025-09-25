@@ -1,0 +1,419 @@
+/* ----------------------------------------------------------------------------
+| Copyright (c) Jupyter Development Team.
+| Distributed under the terms of the Modified BSD License.
+|--------------------------------------------------------------------------- */
+
+/*
+The following CSS variables define the main, public API for styling JupyterLab.
+These variables should be used by all plugins wherever possible. In other
+words, plugins should not define custom colors, sizes, etc unless absolutely
+necessary. This enables users to change the visual theme of JupyterLab
+by changing these variables.
+
+Many variables appear in an ordered sequence (0,1,2,3). These sequences
+are designed to work well together, so for example, `--jp-border-color1` should
+be used with `--jp-layout-color1`. The numbers have the following meanings:
+
+* 0: super-primary, reserved for special emphasis
+* 1: primary, most important under normal situations
+* 2: secondary, next most important under normal situations
+* 3: tertiary, next most important under normal situations
+
+Throughout JupyterLab, we are mostly following principles from Google's
+Material Design when selecting colors. We are not, however, following
+all of MD as it is not optimized for dense, information rich UIs.
+*/
+
+:root {
+  /* Elevation
+   *
+   * We style box-shadows using Material Design's idea of elevation. These particular numbers are taken from here:
+   *
+   * https://github.com/material-components/material-components-web
+   * https://material-components-web.appspot.com/elevation.html
+   */
+
+  --jp-shadow-base-lightness: 0;
+  --jp-shadow-umbra-color: rgba(
+    var(--jp-shadow-base-lightness),
+    var(--jp-shadow-base-lightness),
+    var(--jp-shadow-base-lightness),
+    0.2
+  );
+  --jp-shadow-penumbra-color: rgba(
+    var(--jp-shadow-base-lightness),
+    var(--jp-shadow-base-lightness),
+    var(--jp-shadow-base-lightness),
+    0.14
+  );
+  --jp-shadow-ambient-color: rgba(
+    var(--jp-shadow-base-lightness),
+    var(--jp-shadow-base-lightness),
+    var(--jp-shadow-base-lightness),
+    0.12
+  );
+  --jp-elevation-z0: none;
+  --jp-elevation-z1: 0 2px 1px -1px var(--jp-shadow-umbra-color),
+    0 1px 1px 0 var(--jp-shadow-penumbra-color),
+    0 1px 3px 0 var(--jp-shadow-ambient-color);
+  --jp-elevation-z2: 0 3px 1px -2px var(--jp-shadow-umbra-color),
+    0 2px 2px 0 var(--jp-shadow-penumbra-color),
+    0 1px 5px 0 var(--jp-shadow-ambient-color);
+  --jp-elevation-z4: 0 2px 4px -1px var(--jp-shadow-umbra-color),
+    0 4px 5px 0 var(--jp-shadow-penumbra-color),
+    0 1px 10px 0 var(--jp-shadow-ambient-color);
+  --jp-elevation-z6: 0 3px 5px -1px var(--jp-shadow-umbra-color),
+    0 6px 10px 0 var(--jp-shadow-penumbra-color),
+    0 1px 18px 0 var(--jp-shadow-ambient-color);
+  --jp-elevation-z8: 0 5px 5px -3px var(--jp-shadow-umbra-color),
+    0 8px 10px 1px var(--jp-shadow-penumbra-color),
+    0 3px 14px 2px var(--jp-shadow-ambient-color);
+  --jp-elevation-z12: 0 7px 8px -4px var(--jp-shadow-umbra-color),
+    0 12px 17px 2px var(--jp-shadow-penumbra-color),
+    0 5px 22px 4px var(--jp-shadow-ambient-color);
+  --jp-elevation-z16: 0 8px 10px -5px var(--jp-shadow-umbra-color),
+    0 16px 24px 2px var(--jp-shadow-penumbra-color),
+    0 6px 30px 5px var(--jp-shadow-ambient-color);
+  --jp-elevation-z20: 0 10px 13px -6px var(--jp-shadow-umbra-color),
+    0 20px 31px 3px var(--jp-shadow-penumbra-color),
+    0 8px 38px 7px var(--jp-shadow-ambient-color);
+  --jp-elevation-z24: 0 11px 15px -7px var(--jp-shadow-umbra-color),
+    0 24px 38px 3px var(--jp-shadow-penumbra-color),
+    0 9px 46px 8px var(--jp-shadow-ambient-color);
+
+  /* Borders
+   *
+   * The following variables, specify the visual styling of borders in JupyterLab.
+   */
+
+  --jp-border-width: 1px;
+  --jp-border-color0: var(--md-grey-400);
+  --jp-border-color1: var(--md-grey-400);
+  --jp-border-color2: var(--md-grey-300);
+  --jp-border-color3: var(--md-grey-200);
+  --jp-border-radius: 2px;
+
+  /* UI Fonts
+   *
+   * The UI font CSS variables are used for the typography all of the JupyterLab
+   * user interface elements that are not directly user generated content.
+   *
+   * The font sizing here is done assuming that the body font size of --jp-ui-font-size1
+   * is applied to a parent element. When children elements, such as headings, are sized
+   * in em all things will be computed relative to that body size.
+   */
+
+  --jp-ui-font-scale-factor: 1.2;
+  --jp-ui-font-size0: 0.8333em;
+  --jp-ui-font-size1: 13px; /* Base font size */
+  --jp-ui-font-size2: 1.2em;
+  --jp-ui-font-size3: 1.44em;
+  --jp-ui-font-family: -apple-system, blinkmacsystemfont, 'Segoe UI', helvetica,
+    arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+
+  /*
+   * Use these font colors against the corresponding main layout colors.
+   * In a light theme, these go from dark to light.
+   */
+
+  /* Defaults use Material Design specification */
+  --jp-ui-font-color0: rgba(0, 0, 0, 1);
+  --jp-ui-font-color1: rgba(0, 0, 0, 0.87);
+  --jp-ui-font-color2: rgba(0, 0, 0, 0.54);
+  --jp-ui-font-color3: rgba(0, 0, 0, 0.38);
+
+  /*
+   * Use these against the brand/accent/warn/error colors.
+   * These will typically go from light to darker, in both a dark and light theme.
+   */
+
+  --jp-ui-inverse-font-color0: rgba(255, 255, 255, 1);
+  --jp-ui-inverse-font-color1: rgba(255, 255, 255, 1);
+  --jp-ui-inverse-font-color2: rgba(255, 255, 255, 0.7);
+  --jp-ui-inverse-font-color3: rgba(255, 255, 255, 0.5);
+
+  /* Content Fonts
+   *
+   * Content font variables are used for typography of user generated content.
+   *
+   * The font sizing here is done assuming that the body font size of --jp-content-font-size1
+   * is applied to a parent element. When children elements, such as headings, are sized
+   * in em all things will be computed relative to that body size.
+   */
+
+  --jp-content-line-height: 1.6;
+  --jp-content-font-scale-factor: 1.2;
+  --jp-content-font-size0: 0.8333em;
+  --jp-content-font-size1: 14px; /* Base font size */
+  --jp-content-font-size2: 1.2em;
+  --jp-content-font-size3: 1.44em;
+  --jp-content-font-size4: 1.728em;
+  --jp-content-font-size5: 2.0736em;
+
+  /* This gives a magnification of about 125% in presentation mode over normal. */
+  --jp-content-presentation-font-size1: 17px;
+  --jp-content-heading-line-height: 1;
+  --jp-content-heading-margin-top: 1.2em;
+  --jp-content-heading-margin-bottom: 0.8em;
+  --jp-content-heading-font-weight: 500;
+
+  /* Defaults use Material Design specification */
+  --jp-content-font-color0: rgba(0, 0, 0, 1);
+  --jp-content-font-color1: rgba(0, 0, 0, 0.87);
+  --jp-content-font-color2: rgba(0, 0, 0, 0.54);
+  --jp-content-font-color3: rgba(0, 0, 0, 0.38);
+  --jp-content-link-color: var(--md-blue-700);
+  --jp-content-font-family: -apple-system, blinkmacsystemfont, 'Segoe UI',
+    helvetica, arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+    'Segoe UI Symbol';
+
+  /*
+   * Code Fonts
+   *
+   * Code font variables are used for typography of code and other monospaces content.
+   */
+
+  --jp-code-font-size: 13px;
+  --jp-code-line-height: 1.3077; /* 17px for 13px base */
+  --jp-code-padding: 0.385em; /* 5px for 13px base */
+  --jp-code-font-family-default: menlo, consolas, 'DejaVu Sans Mono', monospace;
+  --jp-code-font-family: var(--jp-code-font-family-default);
+
+  /* This gives a magnification of about 125% in presentation mode over normal. */
+  --jp-code-presentation-font-size: 16px;
+
+  /* may need to tweak cursor width if you change font size */
+  --jp-code-cursor-width0: 1.4px;
+  --jp-code-cursor-width1: 2px;
+  --jp-code-cursor-width2: 4px;
+
+  /* Layout
+   *
+   * The following are the main layout colors use in JupyterLab. In a light
+   * theme these would go from light to dark.
+   */
+
+  --jp-layout-color0: white;
+  --jp-layout-color1: white;
+  --jp-layout-color2: var(--md-grey-200);
+  --jp-layout-color3: var(--md-grey-400);
+  --jp-layout-color4: var(--md-grey-600);
+
+  /* Inverse Layout
+   *
+   * The following are the inverse layout colors use in JupyterLab. In a light
+   * theme these would go from dark to light.
+   */
+
+  --jp-inverse-layout-color0: #111;
+  --jp-inverse-layout-color1: var(--md-grey-900);
+  --jp-inverse-layout-color2: var(--md-grey-800);
+  --jp-inverse-layout-color3: var(--md-grey-700);
+  --jp-inverse-layout-color4: var(--md-grey-600);
+
+  /* Brand/accent */
+
+  --jp-brand-color0: var(--md-blue-700);
+  --jp-brand-color1: var(--md-blue-500);
+  --jp-brand-color2: var(--md-blue-300);
+  --jp-brand-color3: var(--md-blue-100);
+  --jp-accent-color0: var(--md-green-700);
+  --jp-accent-color1: var(--md-green-500);
+  --jp-accent-color2: var(--md-green-300);
+  --jp-accent-color3: var(--md-green-100);
+
+  /* State colors (warn, error, success, info) */
+
+  --jp-warn-color0: var(--md-orange-700);
+  --jp-warn-color1: var(--md-orange-500);
+  --jp-warn-color2: var(--md-orange-300);
+  --jp-warn-color3: var(--md-orange-100);
+  --jp-error-color0: var(--md-red-700);
+  --jp-error-color1: var(--md-red-500);
+  --jp-error-color2: var(--md-red-300);
+  --jp-error-color3: var(--md-red-100);
+  --jp-success-color0: var(--md-green-700);
+  --jp-success-color1: var(--md-green-500);
+  --jp-success-color2: var(--md-green-300);
+  --jp-success-color3: var(--md-green-100);
+  --jp-info-color0: var(--md-cyan-700);
+  --jp-info-color1: var(--md-cyan-500);
+  --jp-info-color2: var(--md-cyan-300);
+  --jp-info-color3: var(--md-cyan-100);
+
+  /* Cell specific styles */
+
+  --jp-cell-padding: 5px;
+  --jp-cell-collapser-width: 8px;
+  --jp-cell-collapser-min-height: 20px;
+  --jp-cell-collapser-not-active-hover-opacity: 0.6;
+  --jp-cell-editor-background: var(--md-grey-100);
+  --jp-cell-editor-border-color: var(--md-grey-300);
+  --jp-cell-editor-box-shadow: inset 0 0 2px var(--md-blue-300);
+  --jp-cell-editor-active-background: var(--jp-layout-color0);
+  --jp-cell-editor-active-border-color: var(--jp-brand-color1);
+  --jp-cell-prompt-width: 64px;
+  --jp-cell-prompt-font-family: 'Source Code Pro', monospace;
+  --jp-cell-prompt-letter-spacing: 0;
+  --jp-cell-prompt-opacity: 1;
+  --jp-cell-prompt-not-active-opacity: 0.5;
+  --jp-cell-prompt-not-active-font-color: var(--md-grey-700);
+
+  /* A custom blend of MD grey and blue 600
+   * See https://meyerweb.com/eric/tools/color-blend/#546E7A:1E88E5:5:hex */
+  --jp-cell-inprompt-font-color: #307fc1;
+
+  /* A custom blend of MD grey and orange 600
+   * https://meyerweb.com/eric/tools/color-blend/#546E7A:F4511E:5:hex */
+  --jp-cell-outprompt-font-color: #bf5b3d;
+
+  /* Notebook specific styles */
+
+  --jp-notebook-padding: 10px;
+  --jp-notebook-select-background: var(--jp-layout-color1);
+  --jp-notebook-multiselected-color: var(--md-blue-50);
+
+  /* The scroll padding is calculated to fill enough space at the bottom of the
+  notebook to show one single-line cell (with appropriate padding) at the top
+  when the notebook is scrolled all the way to the bottom. We also subtract one
+  pixel so that no scrollbar appears if we have just one single-line cell in the
+  notebook. This padding is to enable a 'scroll past end' feature in a notebook.
+  */
+  --jp-notebook-scroll-padding: calc(
+    100% - var(--jp-code-font-size) * var(--jp-code-line-height) -
+      var(--jp-code-padding) - var(--jp-cell-padding) - 1px
+  );
+
+  /* Rendermime styles */
+
+  --jp-rendermime-error-background: #fdd;
+  --jp-rendermime-table-row-background: var(--md-grey-100);
+  --jp-rendermime-table-row-hover-background: var(--md-light-blue-50);
+
+  /* Dialog specific styles */
+
+  --jp-dialog-background: rgba(0, 0, 0, 0.25);
+
+  /* Console specific styles */
+
+  --jp-console-padding: 10px;
+
+  /* Toolbar specific styles */
+
+  --jp-toolbar-border-color: var(--jp-border-color1);
+  --jp-toolbar-micro-height: 8px;
+  --jp-toolbar-background: var(--jp-layout-color1);
+  --jp-toolbar-box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.24);
+  --jp-toolbar-header-margin: 4px 4px 0 4px;
+  --jp-toolbar-active-background: var(--md-grey-300);
+
+  /* Statusbar specific styles */
+
+  --jp-statusbar-height: 24px;
+
+  /* Input field styles */
+
+  --jp-input-box-shadow: inset 0 0 2px var(--md-blue-300);
+  --jp-input-active-background: var(--jp-layout-color1);
+  --jp-input-hover-background: var(--jp-layout-color1);
+  --jp-input-background: var(--md-grey-100);
+  --jp-input-border-color: var(--jp-border-color1);
+  --jp-input-active-border-color: var(--jp-brand-color1);
+
+  /* General editor styles */
+
+  --jp-editor-selected-background: #d9d9d9;
+  --jp-editor-selected-focused-background: #d7d4f0;
+  --jp-editor-cursor-color: var(--jp-ui-font-color0);
+
+  /* Code mirror specific styles */
+
+  --jp-mirror-editor-keyword-color: #008000;
+  --jp-mirror-editor-atom-color: #88f;
+  --jp-mirror-editor-number-color: #080;
+  --jp-mirror-editor-def-color: #00f;
+  --jp-mirror-editor-variable-color: var(--md-grey-900);
+  --jp-mirror-editor-variable-2-color: #05a;
+  --jp-mirror-editor-variable-3-color: #085;
+  --jp-mirror-editor-punctuation-color: #05a;
+  --jp-mirror-editor-property-color: #05a;
+  --jp-mirror-editor-operator-color: #a2f;
+  --jp-mirror-editor-comment-color: #408080;
+  --jp-mirror-editor-string-color: #ba2121;
+  --jp-mirror-editor-string-2-color: #708;
+  --jp-mirror-editor-meta-color: #a2f;
+  --jp-mirror-editor-qualifier-color: #555;
+  --jp-mirror-editor-builtin-color: #008000;
+  --jp-mirror-editor-bracket-color: #997;
+  --jp-mirror-editor-tag-color: #170;
+  --jp-mirror-editor-attribute-color: #00c;
+  --jp-mirror-editor-header-color: blue;
+  --jp-mirror-editor-quote-color: #090;
+  --jp-mirror-editor-link-color: #00c;
+  --jp-mirror-editor-error-color: #f00;
+  --jp-mirror-editor-hr-color: #999;
+
+  /* User colors */
+
+  --jp-collaborator-color1: #ad4a00;
+  --jp-collaborator-color2: #7b6a00;
+  --jp-collaborator-color3: #007e00;
+  --jp-collaborator-color4: #008772;
+  --jp-collaborator-color5: #0079b9;
+  --jp-collaborator-color6: #8b45c6;
+  --jp-collaborator-color7: #be208b;
+
+  /* File or activity icons and switch semantic variables */
+
+  --jp-jupyter-icon-color: var(--md-orange-900);
+  --jp-notebook-icon-color: var(--md-orange-700);
+  --jp-json-icon-color: var(--md-orange-700);
+  --jp-console-icon-background-color: var(--md-blue-700);
+  --jp-console-icon-color: white;
+  --jp-terminal-icon-background-color: var(--md-grey-200);
+  --jp-terminal-icon-color: var(--md-grey-800);
+  --jp-text-editor-icon-color: var(--md-grey-200);
+  --jp-inspector-icon-color: var(--md-grey-200);
+  --jp-switch-color: var(--md-grey-400);
+  --jp-switch-true-position-color: var(--md-orange-700);
+  --jp-switch-cursor-color: rgba(0, 0, 0, 0.8);
+
+  /* Vega extension styles */
+
+  --jp-vega-background: white;
+
+  /* Sidebar-related styles */
+
+  --jp-sidebar-min-width: 180px;
+}
+
+/* Set the default typography for monospace elements */
+tt,
+code,
+kbd,
+samp,
+pre {
+  font-family: var(--jp-code-font-family);
+  font-size: var(--jp-code-font-size);
+  line-height: var(--jp-code-line-height);
+}
+
+/* Code to change the logo to the Ontario Tech Logo */
+#jp-MainLogo {
+  background-image: url(data:image/png;base64,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);
+  background-repeat: no-repeat;
+  width: 100px;
+}
+
+#jp-MainLogo > svg {
+  visibility: hidden;
+}
+
+#jp-RetroLogo {
+  background-image: url(data:image/png;base64,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);
+  background-repeat: no-repeat;
+}
+
+#jp-RetroLogo > svg {
+  visibility: hidden;
+}

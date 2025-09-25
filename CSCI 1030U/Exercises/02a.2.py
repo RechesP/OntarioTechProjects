@@ -1,0 +1,5 @@
+midterm_mark = int(input('Midterm Mark: '))
+lab_mark = int(input('Lab Mark: '))
+exam_mark = int(input('Final Exam Mark: '))
+mark = (midterm_mark / 80 * 30) + lab_mark + (exam_mark / 180 * 40)
+print(f'{mark = }')

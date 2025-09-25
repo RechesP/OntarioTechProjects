@@ -1,0 +1,742 @@
+Events:
+
+Bunnies:
+Eleanor: Female, 1 years old, White fur
+Benjamin: Female, 1 years old, Black fur
+Leonardo: Female, 1 years old, White fur
+George: Female, 1 years old, White fur
+Audrey: Male, 1 years old, White fur
+
+Events:
+
+Bunnies:
+Eleanor: Female, 2 years old, White fur
+Benjamin: Female, 2 years old, Black fur
+Leonardo: Female, 2 years old, White fur
+George: Female, 2 years old, White fur
+Audrey: Male, 2 years old, White fur
+
+Events:
+Bunny Tariq was born!
+Bunny Winston was born!
+Bunny Princess was born!
+Radioactive Mutant Vampire Bunny Michelle was born!
+Bunny Audrey is now a Radioactive Mutant Vampire Bunny!
+
+Bunnies:
+Tariq: Female, 0 years old, White fur
+Winston: Male, 0 years old, Black fur
+Princess: Female, 0 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 0 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 3 years old, White fur
+Eleanor: Female, 3 years old, White fur
+Benjamin: Female, 3 years old, Black fur
+Leonardo: Female, 3 years old, White fur
+George: Female, 3 years old, White fur
+
+Events:
+Bunny Princess is now a Radioactive Mutant Vampire Bunny!
+Bunny Tariq is now a Radioactive Mutant Vampire Bunny!
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 1 years old, White fur
+Winston: Male, 1 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 1 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 1 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 4 years old, White fur
+Eleanor: Female, 4 years old, White fur
+Benjamin: Female, 4 years old, Black fur
+Leonardo: Female, 4 years old, White fur
+George: Female, 4 years old, White fur
+
+Events:
+Bunny Eleanor is now a Radioactive Mutant Vampire Bunny!
+Bunny George is now a Radioactive Mutant Vampire Bunny!
+Bunny Benjamin is now a Radioactive Mutant Vampire Bunny!
+Bunny Leonardo is now a Radioactive Mutant Vampire Bunny!
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 2 years old, White fur
+Winston: Male, 2 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 2 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 2 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 5 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 5 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 5 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 5 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 5 years old, White fur
+
+Events:
+Bunny Winston is now a Radioactive Mutant Vampire Bunny!
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 3 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 3 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 3 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 3 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 6 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 6 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 6 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 6 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 6 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 4 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 4 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 4 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 4 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 7 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 7 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 7 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 7 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 7 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 5 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 5 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 5 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 5 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 8 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 8 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 8 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 8 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 8 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 6 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 6 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 6 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 6 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 9 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 9 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 9 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 9 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 9 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 7 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 7 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 7 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 7 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 10 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 10 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 10 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 10 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 10 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 8 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 8 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 8 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 8 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 11 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 11 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 11 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 11 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 11 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 9 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 9 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 9 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 9 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 12 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 12 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 12 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 12 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 12 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 10 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 10 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 10 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 10 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 13 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 13 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 13 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 13 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 13 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 11 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 11 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 11 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 11 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 14 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 14 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 14 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 14 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 14 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 12 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 12 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 12 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 12 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 15 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 15 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 15 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 15 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 15 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 13 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 13 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 13 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 13 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 16 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 16 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 16 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 16 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 16 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 14 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 14 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 14 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 14 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 17 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 17 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 17 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 17 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 17 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 15 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 15 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 15 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 15 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 18 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 18 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 18 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 18 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 18 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 16 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 16 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 16 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 16 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 19 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 19 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 19 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 19 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 19 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 17 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 17 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 17 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 17 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 20 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 20 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 20 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 20 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 20 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 18 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 18 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 18 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 18 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 21 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 21 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 21 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 21 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 21 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 19 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 19 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 19 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 19 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 22 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 22 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 22 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 22 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 22 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 20 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 20 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 20 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 20 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 23 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 23 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 23 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 23 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 23 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 21 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 21 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 21 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 21 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 24 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 24 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 24 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 24 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 24 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 22 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 22 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 22 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 22 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 25 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 25 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 25 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 25 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 25 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 23 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 23 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 23 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 23 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 26 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 26 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 26 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 26 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 26 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 24 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 24 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 24 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 24 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 27 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 27 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 27 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 27 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 27 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 25 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 25 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 25 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 25 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 28 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 28 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 28 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 28 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 28 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 26 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 26 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 26 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 26 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 29 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 29 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 29 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 29 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 29 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 27 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 27 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 27 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 27 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 30 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 30 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 30 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 30 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 30 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 28 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 28 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 28 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 28 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 31 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 31 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 31 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 31 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 31 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 29 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 29 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 29 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 29 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 32 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 32 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 32 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 32 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 32 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 30 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 30 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 30 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 30 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 33 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 33 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 33 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 33 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 33 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 31 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 31 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 31 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 31 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 34 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 34 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 34 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 34 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 34 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 32 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 32 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 32 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 32 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 35 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 35 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 35 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 35 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 35 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 33 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 33 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 33 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 33 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 36 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 36 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 36 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 36 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 36 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 34 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 34 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 34 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 34 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 37 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 37 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 37 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 37 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 37 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 35 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 35 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 35 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 35 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 38 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 38 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 38 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 38 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 38 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 36 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 36 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 36 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 36 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 39 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 39 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 39 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 39 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 39 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 37 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 37 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 37 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 37 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 40 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 40 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 40 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 40 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 40 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 38 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 38 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 38 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 38 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 41 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 41 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 41 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 41 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 41 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 39 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 39 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 39 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 39 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 42 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 42 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 42 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 42 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 42 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 40 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 40 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 40 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 40 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 43 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 43 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 43 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 43 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 43 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 41 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 41 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 41 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 41 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 44 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 44 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 44 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 44 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 44 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 42 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 42 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 42 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 42 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 45 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 45 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 45 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 45 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 45 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 43 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 43 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 43 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 43 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 46 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 46 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 46 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 46 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 46 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 44 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 44 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 44 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 44 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 47 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 47 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 47 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 47 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 47 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 45 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 45 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 45 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 45 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 48 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 48 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 48 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 48 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 48 years old, White fur
+
+Events:
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 46 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 46 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 46 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 46 years old, White fur
+Audrey: Male, Radioactive Mutant Vampire Bunny, 49 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 49 years old, White fur
+Benjamin: Female, Radioactive Mutant Vampire Bunny, 49 years old, Black fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 49 years old, White fur
+George: Female, Radioactive Mutant Vampire Bunny, 49 years old, White fur
+
+Events:
+Radioactive Mutant Vampire Bunny Audrey died!
+Radioactive Mutant Vampire Bunny Benjamin died!
+Radioactive Mutant Vampire Bunny George died!
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 47 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 47 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 47 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 47 years old, White fur
+Eleanor: Female, Radioactive Mutant Vampire Bunny, 49 years old, White fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 49 years old, White fur
+
+Events:
+Radioactive Mutant Vampire Bunny Eleanor died!
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 48 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 48 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 48 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 48 years old, White fur
+Leonardo: Female, Radioactive Mutant Vampire Bunny, 49 years old, White fur
+
+Events:
+Radioactive Mutant Vampire Bunny Leonardo died!
+No bunnies left to turn.
+
+Bunnies:
+Tariq: Female, Radioactive Mutant Vampire Bunny, 49 years old, White fur
+Winston: Male, Radioactive Mutant Vampire Bunny, 49 years old, Black fur
+Princess: Female, Radioactive Mutant Vampire Bunny, 49 years old, White fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 49 years old, White fur
+
+Events:
+Radioactive Mutant Vampire Bunny Tariq died!
+Radioactive Mutant Vampire Bunny Princess died!
+No bunnies left to turn.
+
+Bunnies:
+Winston: Male, Radioactive Mutant Vampire Bunny, 49 years old, Black fur
+Michelle: Male, Radioactive Mutant Vampire Bunny, 49 years old, White fur
+
+Events:
+Radioactive Mutant Vampire Bunny Winston died!
+No bunnies left to turn.
+
+Bunnies:
+Michelle: Male, Radioactive Mutant Vampire Bunny, 49 years old, White fur
+
+Events:
+Radioactive Mutant Vampire Bunny Michelle died!
+
+Bunnies:
+
+After 55 years all the bunnies died.
